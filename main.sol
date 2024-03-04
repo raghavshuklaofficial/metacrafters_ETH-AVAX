@@ -32,9 +32,6 @@ contract ErrorHandlingContract {
         // Performing the division
         uint256 result = _numerator / _denominator;
 
-        // Using revert statement to check for overflow
-        revert("SafeMath: multiplication overflow");
-
         return result;
     }
 }
