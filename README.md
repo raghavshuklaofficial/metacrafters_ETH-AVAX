@@ -10,7 +10,7 @@ This repository contains a Solidity smart contract that demonstrates error handl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/metacrafters_ETH-AVAX.git
+   git clone https://github.com/raghavshuklaofficial/metacrafters_ETH-AVAX.git
 2. Navigate to the project folder:
    ```bash
    cd metacrafters_ETH-AVAX
