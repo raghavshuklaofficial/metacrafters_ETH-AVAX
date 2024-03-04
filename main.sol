@@ -1,6 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
+/*
+Smart Contract Project
+For this project, write a smart contract that implements the require(), assert() and revert() statements.
+*/
+
 contract ErrorHandlingContract {
     address public owner;
     uint256 public value;
