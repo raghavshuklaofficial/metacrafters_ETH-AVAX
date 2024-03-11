@@ -9,7 +9,7 @@ contract ErrorHandling {
 
   uint public value;
 
-  constructor(uint initialValue) public {
+  constructor(uint initialValue) {
     value = initialValue;
   }
 
