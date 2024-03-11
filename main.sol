@@ -21,7 +21,7 @@ contract ErrorHandling {
   }
 
   function addToValue(uint amount) public {
-    // Check for overflow with assert (for development only)
+    // Check for overflow with assert
     assert(value + amount >= value); // This will always be true mathematically, but helps catch potential overflow bugs during development
 
     value += amount;
